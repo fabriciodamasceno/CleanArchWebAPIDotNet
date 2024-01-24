@@ -1,0 +1,16 @@
+.vs
+.vs/*
+.github
+CleanArchMvc.Application/obj/*
+CleanArchMvc.Domain/obj/*
+CleanArchMvc.Domain.Tests/obj/*
+CleanArchMvc.Infra.Data/obj/*
+CleanArchMvc.Infra.IoC/obj/*
+CleanArchMvc.WebUI/obj/*
+
+CleanArchMvc.Application/bin/*
+CleanArchMvc.Domain/bin/*
+CleanArchMvc.Domain.Tests/bin/*
+CleanArchMvc.Infra.Data/bin/*
+CleanArchMvc.Infra.IoC/bin/*
+CleanArchMvc.WebUI/bin/*
